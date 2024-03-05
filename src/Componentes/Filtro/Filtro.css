@@ -1,0 +1,17 @@
+.titulo-filtro{text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 550;
+    color: black;
+    border: 10px solid transparent;
+    box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.1);
+margin-top: 20px;
+text-align: center;}
+
+.search-container{display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 25px;}
+
+.caja-buscador{width: 125px;
+    height: 25px;
+    margin-right: 20px}

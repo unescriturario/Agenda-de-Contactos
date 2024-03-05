@@ -1,0 +1,47 @@
+.titular-formulario{text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 550;
+    color: black;
+    border: 10px solid transparent;
+    box-shadow: -1px 0px 5px 0px rgba(0, 0, 0, 0.1);
+margin-top: 20px;
+text-align: center}
+
+.contacto-formulario {
+    border: 10px solid transparent;
+    box-shadow: -1px 0px 5px 0px rgb(0, 0, 0, 1);
+    width: 150px;
+    height: 250px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin: 20px;
+   
+    
+}
+
+.contacto-formularioform {
+    display: flex;
+
+    flex-direction: column;
+}
+
+.boton-formulario{ background-color: #D90143;
+    width: 100px;
+    height: 50px;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    color: white;
+    margin-top: 20px;
+}
+
+.caja-grande-elemento{display: flex;
+flex-direction: column;
+align-items: center;}
+
+.caja-interior-formulario{display: flex;
+flex-direction: column;
+align-items: center;}
+
